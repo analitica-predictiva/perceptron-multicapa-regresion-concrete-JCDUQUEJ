@@ -118,6 +118,7 @@ def pregunta_03():
         ],
     )
 
+
     # Retorne el pipeline
     return pipeline
 
